@@ -48,7 +48,7 @@ async function start() {
     })
   })
 
-  app.listen(port, host)
+  app.listen(3000, host)
   console.log('Server listening on ' + host + ':' + port) // eslint-disable-line no-console
 }
 
