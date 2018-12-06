@@ -4,16 +4,16 @@ export default {
     username: 'q',
     password: 'q',
     email: 'qq22337383@gmail.com',
-    nickname: 'VueBlog',
+    nickname: '51Cake',
     motto: 'Never too old to learn',
     avatar: 'avatar.png'
   },
   jwt: {
-    secret: 'vueblog'
+    secret: '51Cake'
   },
   mongodb: {
     host: '127.0.0.1',
-    database: 'vueblog',
+    database: '51Cake',
     port: 27017,
     username: '',
     password: ''
@@ -30,7 +30,7 @@ export default {
   app: {
     domain: '',
     host: '127.0.0.1',
-    port: 3000,
+    port: 3009,
     routerBaseApi: 'api'
   }
 }

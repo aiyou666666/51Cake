@@ -29,7 +29,7 @@ module.exports = {
     }
   },
   manifest: {
-    name: '51cake',
+    name: 'VueBlog',
     description: 'A blog system',
     theme_color: '#42B983'
   },
