@@ -1,7 +1,7 @@
 module.exports = {
   apps: [
     {
-      name: 'vueblog',
+      name: '51Cake',
       script: 'build/main.js',
       env: {
         COMMON_VARIABLE: 'true'

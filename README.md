@@ -107,7 +107,7 @@ npm install # or yarn
 npm run build
 
 # serve in production mode
-pm2 start npm --name "vueblog" -- start
+pm2 start npm --name "51Cake" -- start
 ```
 
 
