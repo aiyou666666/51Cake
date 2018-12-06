@@ -14,7 +14,7 @@ module.exports = {
   deploy: {
     production: {
       user: 'root',
-      host: '101.200.55.70/', // 服务器IP
+      host: '101.200.55.70', // 服务器IP
       ref: 'origin/master',
       repo: 'git@github.com:aiyou666666/51Cake.git',
       path: '/opt/www/51Cake',
