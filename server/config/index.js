@@ -28,8 +28,8 @@ export default {
     pass: ''
   },
   app: {
-    domain: '101.200.55.70',
-    host: '101.200.55.70',
+    domain: '',
+    host: '127.0.0.1',
     port: 3000,
     routerBaseApi: 'api'
   }
