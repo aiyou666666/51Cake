@@ -18,7 +18,7 @@ module.exports = {
       ref: 'origin/master',
       repo: 'git@github.com:aiyou666666/51Cake.git',
       path: '/opt/www/51Cake',
-      'post-deploy': 'yarn && npm run build && pm2 reload ecosystem.config.js --env production'
+      'post-deploy':' yarn  &&  npm run build && pm2 reload ecosystem.config.js --env production'
     }
   }
 }
