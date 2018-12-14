@@ -37,6 +37,8 @@ module.exports = {
   plugins: [
    '~/plugins/components.js',
    '~/plugins/filters.js',
-   '~/plugins/element-ui.js'
+   '~/plugins/element-ui.js',
+   {src:'~/plugins/aMap.js',ssr: false}
+   
    ]
 }

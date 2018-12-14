@@ -3,8 +3,8 @@ const Schema = mongoose.Schema
 
 const UserSchema = new Schema({
   role: {
-    type: String,
-    default: 'user'
+    type: Number,
+    default: 0
   },
   username: String,
   password: String,

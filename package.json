@@ -31,7 +31,8 @@
     "nuxt": "latest",
     "pm2": "^3.2.2",
     "source-map-support": "^0.4.15",
-    "top-editor": "^0.0.8"
+    "top-editor": "^0.0.8",
+    "vue-amap": "^0.5.8"
   },
   "devDependencies": {
     "babel-eslint": "^7.1.1",

@@ -9,6 +9,7 @@ export default {
     }
     return host
   },
+ 
   routerBaseApi() {
     let routerBaseApi =  globalConfig.app.routerBaseApi
     return routerBaseApi
